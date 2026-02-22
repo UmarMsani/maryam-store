@@ -28,7 +28,7 @@ const STORE_CONFIG = {
     // STORE INFORMATION
     // ==========================================
     store: {
-        name: "Maryam Stores",
+        name: "Maryam's Store",
         phone: "0706506735",
         phoneWithCountryCode: "2347065056735",
         location: "Katsina Dustin Safe Lowcost",
@@ -375,4 +375,5 @@ const STORE_CONFIG = {
             badge: null
         }
     ]
+
 };
