@@ -71,10 +71,10 @@ const STORE_CONFIG = {
             name: "Lactorch Milk",
             category: "milk",
             promoPrice: 3500,
-            regularPrice: 4000,
+            regularPrice: 3700,
             size: "Kwata",
             // EXAMPLE: image: "https://i.ibb.co/abc123/lactorch.jpg",
-            image: "images/cat3.jpg", // <-- REPLACE null WITH YOUR IMAGE URL
+            image: "images/Lactorch milk.jpeg",
             description: "Quality milk powder for tea and beverages",
             badge: "Popular"
         },
@@ -83,9 +83,9 @@ const STORE_CONFIG = {
             name: "Lactorch Milk",
             category: "milk",
             promoPrice: 14000,
-            regularPrice: 16000,
+            regularPrice: 14800,
             size: "Tiya",
-            image: "images/cat1.jpg",
+            image: "images/Lactorch milk.jpeg",
             description: "Bulk of Lactorch milk powder",
             badge: "Bulk Save"
         },
@@ -94,9 +94,9 @@ const STORE_CONFIG = {
             name: "Kremela",
             category: "milk",
             promoPrice: 1600,
-            regularPrice: 1800,
+            regularPrice: 1700,
             size: "Per pack",
-            image: "images/cat2.jpg",
+            image: "images/Kremela.jpeg",
             description: "Creamy milk for tea and coffee",
             badge: null
         },
@@ -377,3 +377,4 @@ const STORE_CONFIG = {
     ]
 
 };
+
