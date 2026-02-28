@@ -359,7 +359,7 @@ const STORE_CONFIG = {
             promoPrice: 2600,
             regularPrice: 2900,
             size: "Tiya",
-            image: null,
+            image: "images/Dankali.jpg",
             description: "Fresh sweet potatoes",
             badge: "Fresh"
         },
@@ -370,7 +370,7 @@ const STORE_CONFIG = {
             promoPrice: 15000,
             regularPrice: 16500,
             size: "Bucket",
-            image: null,
+            image: "images/Dankali.jpg",
             description: "Full bucket of fresh dankali",
             badge: "Bulk"
         },
@@ -410,6 +410,7 @@ const STORE_CONFIG = {
     ]
 
 };
+
 
 
 
